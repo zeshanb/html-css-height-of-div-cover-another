@@ -1,7 +1,7 @@
 # Height of a div cover another div
 
-When Working on web applications and fixing html view bugs one deals with strange things. How can div element slightly overlap another div element?
+When Working on websites or web application views, one deals with strange things. How does a html element slightly overlap another element?
 
 resources:
-https://docs.webplatform.org/wiki/css/properties/z-index
+http://www.webplatform.org/docs/css/properties/z-index/
 
